@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "This bot allows users to use the Age of Empires 2 taunts from their Discord servers by inputting the correct number command as seen in the game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zachery Paterson",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "node-opus": "^0.3.3"
+  }
+}
